@@ -19,4 +19,35 @@ Some of the content from the course:
 - Webservices (SOAP, REST, m.m.)
 
 
+### Objectives on the workshops
+
+**Workshop 1**
+
+Get some background: HTTP, a web server, some tools and the basic client techniques HTML, CSS and ECMAScript (JavaScript)
+
+
+**Workshop 2**
+
+Exploring server side MVC using a heavy (but rock solid) backend (.NET/JEE style, illustrated here using Java EE).
+Basic concepts: request, response, sessions, redirect, forward, server side components, etc
+
+
+**Workshop 3**
+
+Object relational mapping, ORM, and handling of the web application persistence layer (using .NET/JEE style).
+
+
+**Workshop 4**
+
+Introduction to the REST-ful architecture (again using JEE as backend)
+
+
+**Workshop 5**
+
+Task is to implement a client side (close to) single page MVC-applications (SPAs) using ES6 and an in-house MVC-design. The client will communicate with a REST backend using AJAX (backend from previous workshop).
+
+
+**Workshop 6**
+
+Server side JavaScript running on NodeJS, introducing the Express framework (MVC), TypeORM (ORM) and Mustache HTML-templates (for dynamic data in pages).
 
