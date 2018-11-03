@@ -51,3 +51,8 @@ Task is to implement a client side (close to) single page MVC-applications (SPAs
 
 Server side JavaScript running on NodeJS, introducing the Express framework (MVC), TypeORM (ORM) and Mustache HTML-templates (for dynamic data in pages).
 
+
+**Project**
+
+There were also a project in the couse which you can see here: https://github.com/Tithera/DAT076-Web-Applications-Project
+
