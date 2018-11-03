@@ -1,0 +1,16 @@
+/home/tthera/Downloads/ws3/src/main/java/chl/hajo/library/dao/Publications.java
+/home/tthera/Downloads/ws3/src/main/java/chl/hajo/library/core/Author.java
+/home/tthera/Downloads/ws3/target/generated-sources/java/chl/hajo/library/core/QAuthor.java
+/home/tthera/Downloads/ws3/src/main/java/chl/hajo/library/dao/AuthorRegistry.java
+/home/tthera/Downloads/ws3/src/main/java/chl/hajo/library/util/ExceptionHandler.java
+/home/tthera/Downloads/ws3/src/main/java/chl/hajo/library/service/DataSupplier.java
+/home/tthera/Downloads/ws3/src/main/java/chl/hajo/library/dao/AbstractDAO.java
+/home/tthera/Downloads/ws3/src/main/java/chl/hajo/library/core/Book.java
+/home/tthera/Downloads/ws3/src/main/java/chl/hajo/library/control/DatabaseBean.java
+/home/tthera/Downloads/ws3/src/main/java/chl/hajo/library/dao/BookCatalogue.java
+/home/tthera/Downloads/ws3/src/main/java/chl/hajo/library/core/Address.java
+/home/tthera/Downloads/ws3/src/main/java/chl/hajo/library/dao/AbstractQuery.java
+/home/tthera/Downloads/ws3/target/generated-sources/java/chl/hajo/library/core/QAddress.java
+/home/tthera/Downloads/ws3/src/main/java/chl/hajo/library/core/Genre.java
+/home/tthera/Downloads/ws3/src/main/java/chl/hajo/library/control/AuthorBean.java
+/home/tthera/Downloads/ws3/src/main/java/chl/hajo/library/core/Publication.java

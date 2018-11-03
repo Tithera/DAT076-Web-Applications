@@ -1,0 +1,34 @@
+
+body {
+  background-color: #ba4848;
+}
+
+section {
+  width: 650px;
+  margin: 10px 0 10px 150px;
+  background-color: #f2f2f2;
+  padding: 1px 10px 10px 20px;
+}
+
+p {
+  font-family: 'Poiret One', cursive;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 34px;
+}
+
+li {
+  font-family: 'Poiret One', cursive;
+  font-size: 18px;
+}
+
+.divStyle {
+  color:#4B0082;
+}
+
+.funnyPicture {
+  width: 639px;
+  height: 320px;
+}
